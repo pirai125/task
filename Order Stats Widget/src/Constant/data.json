@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "img": "Revenue",
+      "name": "Revenue",
+      "percentage": 10,
+      "num": "$2.047",
+      "status": "-"
+    },
+    {
+      "img": "Order",
+      "name": "Orders",
+      "percentage": 20,
+      "num": "356",
+      "status": "+"
+    },
+    {
+      "img": "Dine",
+      "name": "Dine in",
+      "percentage": 10,
+      "num": "220",
+      "status": "+"
+    },
+    {
+      "img": "TakeAway",
+      "name": "Take Away",
+      "percentage": 5,
+      "num": "135",
+      "status": "-"
+    }
+  ]
+}

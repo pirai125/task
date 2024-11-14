@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "img": "Image1",
+      "name": "Basic Algorithm",
+      "lessons": 25,
+      "date": "27 Jan, 2023",
+      "completed": 10,
+      "duration": "14h 38m 56s"
+    },
+    {
+      "img": "Image2",
+      "name": "Web Development",
+      "lessons": 45,
+      "date": "23 Feb, 2023",
+      "completed": 40,
+      "duration": "36h 30m 00s"
+    },
+    {
+      "img": "Image3",
+      "name": "Basic Data Science",
+      "lessons": 37,
+      "date": "14 Jan, 2023",
+      "completed": 9,
+      "duration": "37h 00m 00s"
+    },
+    {
+      "img": "Image4",
+      "name": "UI/UX Design",
+      "lessons": 32,
+      "date": "19 Feb, 2023",
+      "completed": 26,
+      "duration": "16h 40m 50s"
+    },
+    {
+      "img": "Image5",
+      "name": "Project Management",
+      "lessons": 19,
+      "date": "27 Jan, 2023",
+      "completed": 14,
+      "duration": "13h 20m 00s"
+    }
+  ]
+}

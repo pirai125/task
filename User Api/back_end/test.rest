@@ -1,0 +1,12 @@
+GET  http://localhost:3600
+
+###
+POST http://localhost:3700/create
+Content-Type: application/json
+
+{
+    "name":"pirai",
+    "email":"sudan",
+    "gender":"male",
+    "age":"12"
+}
